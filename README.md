@@ -14,3 +14,10 @@ My team and I were comparing various linear regression models such as OLS, Ridge
 ## League of Legend Win Rate Prediction Project
 
 My team and I's goal was to be able to predict the win rate of a team based on their draft picks. We took in stats about each character picked in a team and formulated a model that will provide the win rate. I tested several different unsupervised models such as Neural Network, KNN, and Random Forest. We found that Neural Network provided the best accuracy and improved significantly once player stats were included in the model.
+
+## The Data, Inference, and Decisions Project
+
+My team and I attempt to answer two research questions:
+1. How does weather affects electricity consumption?
+2. Can we predict the electricity consumption in a region given the region’s economic indicators?
+The first question was investigated using a causual inference method, propensity scores, which helped address confounding variables such as seasonality. The second question was answered using General Linear Modeling and a ransom forest regressor model. Full detail and results are shown in Final_Paper.pdf.
