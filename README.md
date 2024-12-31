@@ -20,4 +20,12 @@ My team and I's goal was to be able to predict the win rate of a team based on t
 My team and I attempt to answer two research questions:
 1. How does weather affects electricity consumption?
 2. Can we predict the electricity consumption in a region given the region’s economic indicators?
+
 The first question was investigated using a causual inference method, propensity scores, which helped address confounding variables such as seasonality. The second question was answered using General Linear Modeling and a ransom forest regressor model. Full detail and results are shown in Final_Paper.pdf.
+
+## Data Engineering Projects
+
+1. Movie Analysis SQL Project: In this project, I conducted an exploratory data analysis on movie and actor data using SQL (PostgreSQL). 
+2. Baseball Database Query Performance Project: I compared different queries that achieved the same goal but had different execution times. In the end I learned which and why methods allow for speedy query performance based on the given data. This was also done in SQL (PostgreSQL).
+3. Sensor Data Transformation Project: I applied advanced SQL transformation on sensor data to handle outliers and missing data. 
+4. Yelp NoSQL Project: I explored how different database systems such as PostgreSQL (SQL) and MongoDB (MQL) handled semi-structured JSON data. 
